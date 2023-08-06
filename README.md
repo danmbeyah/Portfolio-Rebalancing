@@ -2,7 +2,7 @@
 An evidence-based comparison of portfolio rebalancing techniques.
 
 # Background
-In their 2015 white paper, "The Best Practices of Portfolio Rebalancing" analysts at Vanguard Research made a strong case that annual/semi-annual monitoring of a portfolio reasonably rebalances all concerns.
+In their 2015 white paper, "The Best Practices of Portfolio Rebalancing" analysts at Vanguard Research made a strong case that annual/semi-annual monitoring of a portfolio reasonably rebalances all concerns. (David E. Linton, n.d)
 
 This project will assess a hypothetical 50/50 stock/bond portfolio allocation performance from 1926 to 2014 using three rebalancing techniques:
 
@@ -11,4 +11,4 @@ This project will assess a hypothetical 50/50 stock/bond portfolio allocation pe
 3. Calendar + Threshold rebalancing
 
 # Disclosure
-This project is intended to be used to teach fundamentals of investment based on David E. Linton's book "Fundamentals of Investment Management" and does not reflect any Investment Manager's strategy.
+This project is intended to be used to teach fundamentals of investment based on David E. Linton's book "Foundations of Investment Management: Mastering financial markets, asset classes, and investment strategies, " and does not reflect any Investment Manager's strategy.
