@@ -11,4 +11,8 @@ This project will assess a hypothetical 50/50 stock/bond portfolio allocation pe
 3. Calendar + Threshold rebalancing
 
 # Disclosure
-This project is intended to be used to teach fundamentals of investment based on David E. Linton's book "Foundations of Investment Management: Mastering financial markets, asset classes, and investment strategies, " and does not reflect any Investment Manager's strategy.
+This project is intended to be used to teach fundamentals of investment based on David E. Linton's book "Foundations of Investment Management: Mastering financial markets, asset classes, and investment strategies." and does not reflect any Investment Manager's strategy.
+
+# References:
+1. The Best Practices of Portfolio Rebalancing: https://indexacapital.com/bundles/unaiadvisor/docs/papers/2010-Vanguard-Best-practices-for-portfolio-rebalancing.pdf
+2. Foundations of Investment Management: Mastering financial markets, asset classes, and investment strategies: https://www.amazon.com/Foundations-Investment-Management-Mastering-Strategies/dp/1604271655
