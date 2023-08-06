@@ -9,3 +9,6 @@ This project will assess a hypothetical 50/50 stock/bond portfolio allocation pe
 1. Calendar rebalancing
 2. Threshold rebalancing
 3. Calendar + Threshold rebalancing
+
+# Disclosure
+This project is intended to be used to teach fundamentals of investment based on David E. Linton's book "Fundamentals of Investment Management" and does not reflect any Investment Manager's strategy.
